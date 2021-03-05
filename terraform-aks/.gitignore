@@ -2,4 +2,4 @@
 /*.tfstate*
 /kubeconfig
 /account.json
-/*.tf
+#/*.tf
