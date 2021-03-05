@@ -20,7 +20,7 @@ variable "dns_prefix" {
 
 variable "k8s_version" {
   type = string
-  default = "1.17.16"
+  default = "1.19.7"
 }
 
 variable "min_node_count" {
