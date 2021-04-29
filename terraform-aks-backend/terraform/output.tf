@@ -1,5 +1,5 @@
-output "cluster_name" {
-  value = var.cluster_name
+output "storage_account" {
+  value = var.tfstate
 }
 
 output "region" {
