@@ -1,0 +1,8 @@
+subscription_id        = "ba8bcd79-1ad1-432f-8ef8-28f252cddd8e"
+tenant_id              = "9a7e74bc-f0d4-47e0-9493-0051c652b4c2"
+client_id              = "485cdd62-7905-4521-9fb2-3d96567f7ed6"
+client_secret          = "._1QoXJmlO7FT1-a4R.cS1bj_pk_u_uJSI"
+storage_rg             = "Utility-TFState"
+storage_location       = "northcentralus"
+storage_account_name   = "tfsstoraccpfl"
+storage_container_name = "tfsstorcontpfl"
